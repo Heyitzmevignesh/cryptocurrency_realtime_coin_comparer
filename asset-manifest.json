@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cryptocurrency_realtime_coin_comparer/static/css/main.22b02158.chunk.css",
+    "main.js": "/cryptocurrency_realtime_coin_comparer/static/js/main.210a57d4.chunk.js",
+    "main.js.map": "/cryptocurrency_realtime_coin_comparer/static/js/main.210a57d4.chunk.js.map",
+    "runtime-main.js": "/cryptocurrency_realtime_coin_comparer/static/js/runtime-main.55207009.js",
+    "runtime-main.js.map": "/cryptocurrency_realtime_coin_comparer/static/js/runtime-main.55207009.js.map",
+    "static/js/2.920e3753.chunk.js": "/cryptocurrency_realtime_coin_comparer/static/js/2.920e3753.chunk.js",
+    "static/js/2.920e3753.chunk.js.map": "/cryptocurrency_realtime_coin_comparer/static/js/2.920e3753.chunk.js.map",
+    "static/js/3.16cdc025.chunk.js": "/cryptocurrency_realtime_coin_comparer/static/js/3.16cdc025.chunk.js",
+    "static/js/3.16cdc025.chunk.js.map": "/cryptocurrency_realtime_coin_comparer/static/js/3.16cdc025.chunk.js.map",
+    "index.html": "/cryptocurrency_realtime_coin_comparer/index.html",
+    "static/css/main.22b02158.chunk.css.map": "/cryptocurrency_realtime_coin_comparer/static/css/main.22b02158.chunk.css.map",
+    "static/js/2.920e3753.chunk.js.LICENSE.txt": "/cryptocurrency_realtime_coin_comparer/static/js/2.920e3753.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55207009.js",
+    "static/js/2.920e3753.chunk.js",
+    "static/css/main.22b02158.chunk.css",
+    "static/js/main.210a57d4.chunk.js"
+  ]
+}
