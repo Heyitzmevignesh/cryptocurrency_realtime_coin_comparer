@@ -1,0 +1,87 @@
+.create-container{
+  margin: 20px auto;
+  text-align: center;
+}
+.title {
+  font-size: 2em;
+}
+.instructions {
+  width: 75%;
+  margin: 30px auto;
+}
+.form {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  border-style: solid;
+  border-radius: 10px;
+  width: 50%;
+  margin: 50px auto;
+  padding-top: 3em;
+  padding-bottom: 1em;
+  overflow: auto;
+  line-height: 1;
+}
+form select{
+  margin:10px 30px;
+}
+.amount{
+  text-align: right;
+  margin: 10px 30px;
+}
+.base{
+  margin: 50px 10px;
+}
+footer {
+  position: fixed;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  text-align: end;
+  padding-right: 20px;
+}
+
+
+/* media sizings */
+
+/* cell phone */
+@media only screen and (max-width: 599px) {
+
+  .title {
+    font-size: 1em;
+  }
+
+  .instructions {
+    width: 75%;
+  }
+  .form {
+    width: 75%;
+  }
+}
+
+/* table portrait */
+@media only screen and (min-width: 600px) {
+
+}
+
+/* tablet landscape */
+@media only screen and (min-width: 900px) {
+
+
+}
+
+/* desktop up */
+@media only screen and (min-width: 1200px) {
+
+}
+
+/* them big ol screens */
+@media only screen and (min-width: 1800px) {
+
+}
+
+
+
+@media only screen and (max-height: 800px) {
+  .form {
+    padding-bottom: 3.5em;
+  }
+}
